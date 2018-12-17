@@ -15,4 +15,7 @@ public class Hello implements Serializable {
         System.out.println("helloWorld6");
         System.out.println("helloWorld7");
     }
+    public void test(){
+        System.out.println("test");
+    }
 }
